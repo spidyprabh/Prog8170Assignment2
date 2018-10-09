@@ -1,7 +1,10 @@
 D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\bin\Debug\Prog8170Assignment2.exe.config
 D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\bin\Debug\Prog8170Assignment2.exe
 D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\bin\Debug\Prog8170Assignment2.pdb
-D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\obj\Debug\Prog8170Assignment2.csprojAssemblyReference.cache
+D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\bin\Debug\nunit.framework.dll
+D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\bin\Debug\nunit.framework.pdb
+D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\bin\Debug\nunit.framework.xml
 D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\obj\Debug\Prog8170Assignment2.csproj.CoreCompileInputs.cache
+D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\obj\Debug\Prog8170Assignment2.csproj.CopyComplete
 D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\obj\Debug\Prog8170Assignment2.exe
 D:\College semester-2\Assignment2_QA\Prog8170Assignment2\Prog8170Assignment2\obj\Debug\Prog8170Assignment2.pdb
